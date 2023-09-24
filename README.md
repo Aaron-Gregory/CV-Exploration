@@ -4,4 +4,7 @@ This is a repo storing my explorations into computer vision for indoor traversal
 
 ## Setup
 
-This project uses `python 3.10.12` and manages the environment with `venv`.
+This project:
+* Uses `python 3.10.12`
+* Manages the environment with `venv`
+* Has [VPD](https://github.com/wl-zhao/VPD) as a submodule
